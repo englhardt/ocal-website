@@ -2,7 +2,7 @@ module.exports = {
   title: 'My Site',
   tagline: 'The tagline of my site',
   url: 'https://englhardt.github.io/ocal',
-  baseUrl: '/',
+  baseUrl: '/ocal/',
   favicon: 'img/favicon.ico',
   organizationName: 'englhardt', // Usually your GitHub org/user name.
   projectName: 'ocal', // Usually your repo name.

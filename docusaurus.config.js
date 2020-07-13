@@ -4,8 +4,8 @@ module.exports = {
   url: 'https://englhardt.github.io/ocal',
   baseUrl: '/ocal/',
   favicon: 'img/favicon.ico',
-  organizationName: 'englhardt', // Usually your GitHub org/user name.
-  projectName: 'ocal', // Usually your repo name.
+  organizationName: 'englhardt',
+  projectName: 'ocal',
   themeConfig: {
     navbar: {
       title: 'My Site',
